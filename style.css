@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 70px;
+    font-family: 'Libre Baskerville', serif; 
+    color: white; 
+    text-align: center;
+}
+
+li {
+    text-align: left;
+}
+
+h1 {
+    text-transform: capitalize;
+    font-size: 3rem;
+    text-align: center;
+}    
+
+.leopardImage {
+    border: 5px solid white;
+    width: 90%;
+}
+
+#author {
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: right;
+    margin-right: 200px;
+}
+
+footer {
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 12px;
+  }
+
+
+
